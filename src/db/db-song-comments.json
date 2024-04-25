@@ -1,0 +1,44 @@
+{
+  "song_comments": [
+    {
+      "id": 1,
+      "song_id": 1,
+      "comment": "The bassline in 'Billie Jean' is so catchy!"
+    },
+    {
+      "id": 2,
+      "song_id": 1,
+      "comment": "Michael Jackson's dance moves in the 'Billie Jean' music video are legendary."
+    },
+    {
+      "id": 3,
+      "song_id": 2,
+      "comment": "'Thriller' is the ultimate Halloween song!"
+    },
+    {
+      "id": 4,
+      "song_id": 3,
+      "comment": "Adele's voice in 'Someone Like You' is pure magic."
+    },
+    {
+      "id": 5,
+      "song_id": 3,
+      "comment": "This song always brings tears to my eyes."
+    },
+    {
+      "id": 6,
+      "song_id": 5,
+      "comment": "Eminem's flow in 'Lose Yourself' is unmatched."
+    },
+    {
+      "id": 7,
+      "song_id": 5,
+      "comment": "'Lose Yourself' is a motivational anthem for anyone chasing their dreams."
+    },
+    {
+      "id": 8,
+      "song_id": 7,
+      "comment": "The energy in 'Crazy in Love' is infectious!"
+    }
+  ]
+}

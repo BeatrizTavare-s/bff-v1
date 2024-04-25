@@ -1,0 +1,44 @@
+{
+  "artist_comments": [
+    {
+      "id": 1,
+      "artist_id": 1,
+      "comment": "Michael Jackson was a true legend in the pop music industry."
+    },
+    {
+      "id": 2,
+      "artist_id": 1,
+      "comment": "His performance in 'Thriller' is still iconic and unmatched."
+    },
+    {
+      "id": 3,
+      "artist_id": 2,
+      "comment": "Adele's voice is simply mesmerizing, especially in emotional ballads."
+    },
+    {
+      "id": 4,
+      "artist_id": 2,
+      "comment": "I can listen to 'Someone Like You' on repeat, it's that good."
+    },
+    {
+      "id": 5,
+      "artist_id": 3,
+      "comment": "Eminem's lyrics are deep and thought-provoking, a true wordsmith."
+    },
+    {
+      "id": 6,
+      "artist_id": 3,
+      "comment": "Songs like 'Lose Yourself' have left a lasting impact on the rap genre."
+    },
+    {
+      "id": 7,
+      "artist_id": 4,
+      "comment": "Beyoncé's stage presence is electrifying, a must-see performer."
+    },
+    {
+      "id": 8,
+      "artist_id": 4,
+      "comment": "Her song 'Crazy in Love' is an anthem for empowerment and love."
+    }
+  ]
+}

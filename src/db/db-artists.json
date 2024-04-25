@@ -1,0 +1,83 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Michael Jackson",
+      "born": "1958-08-29",
+      "genres": [
+        "Pop"
+      ],
+      "about": "One of the greatest icons of pop music, known for hits like 'Billie Jean' and 'Thriller'."
+    },
+    {
+      "id": 2,
+      "name": "Adele",
+      "born": "1988-05-05",
+      "genres": [
+        "Pop",
+        "R&B"
+      ],
+      "about": "Award-winning British singer, famous for powerful ballads like 'Someone Like You'."
+    },
+    {
+      "id": 3,
+      "name": "Eminem",
+      "born": "1972-10-17",
+      "genres": [
+        "Hip Hop"
+      ],
+      "about": "One of the greatest rappers of all time, known for provocative lyrics and a unique style."
+    },
+    {
+      "id": 4,
+      "name": "Beyoncé",
+      "born": "1981-09-04",
+      "genres": [
+        "R&B",
+        "Pop"
+      ],
+      "about": "Award-winning singer and songwriter, known for vocal talent and iconic performances."
+    },
+    {
+      "id": 5,
+      "name": "Elton John",
+      "born": "1947-03-25",
+      "genres": [
+        "Pop",
+        "Rock"
+      ],
+      "about": "Legendary British singer-songwriter known for hits like 'Rocket Man' and 'Your Song'."
+    },
+    {
+      "id": 6,
+      "name": "Taylor Swift",
+      "born": "1989-12-13",
+      "genres": [
+        "Pop",
+        "Country"
+      ],
+      "about": "Multi-platinum American singer-songwriter known for her storytelling in songs."
+    },
+    {
+      "id": 7,
+      "name": "Drake",
+      "born": "1986-10-24",
+      "genres": [
+        "Hip Hop",
+        "R&B"
+      ],
+      "about": "Canadian rapper and singer known for chart-topping hits like 'God's Plan' and 'Hotline Bling'."
+    },
+    {
+      "id": 8,
+      "name": "Rihanna",
+      "born": "1988-02-20",
+      "genres": [
+        "R&B",
+        "Pop",
+        "Dancehall"
+      ],
+      "about": "Global superstar known for her versatile music and fashion influence."
+    }
+  ]
+}

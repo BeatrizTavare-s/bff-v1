@@ -1,0 +1,52 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "artist_id": 1,
+      "title": "Billie Jean",
+      "year": 1983
+    },
+    {
+      "id": 2,
+      "artist_id": 1,
+      "title": "Thriller",
+      "year": 1982
+    },
+    {
+      "id": 3,
+      "artist_id": 2,
+      "title": "Someone Like You",
+      "year": 2011
+    },
+    {
+      "id": 4,
+      "artist_id": 2,
+      "title": "Hello",
+      "year": 2015
+    },
+    {
+      "id": 5,
+      "artist_id": 3,
+      "title": "Lose Yourself",
+      "year": 2002
+    },
+    {
+      "id": 6,
+      "artist_id": 3,
+      "title": "Love The Way You Lie",
+      "year": 2010
+    },
+    {
+      "id": 7,
+      "artist_id": 4,
+      "title": "Crazy in Love",
+      "year": 2003
+    },
+    {
+      "id": 8,
+      "artist_id": 4,
+      "title": "Single Ladies (Put a Ring on It)",
+      "year": 2008
+    }
+  ]
+}
